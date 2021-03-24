@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michal11! :)
+- 👋 Hi, I’m @VermiNew! :)
 - 👀 I’m interested in ... Programming and generally everything related to IT. :)
 - 🌱 I’m currently learning ... Python.
 - 💞️ I’m looking to collaborate on ... No one.
