@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Programming and generally everything related to IT. :)
 - 🌱 I’m currently learning ... Python.
 - 💞️ I’m looking to collaborate on ... No one.
-- 📫 How to reach me ... verminew@int.pl
+- 📫 How to reach me ... kontakt.verminew@int.pl
 
 <!---
 VermiNew/VermiNew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
