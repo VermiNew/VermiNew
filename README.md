@@ -37,6 +37,7 @@ Hello there! I'm Michael, also known as **VermiNew** around these digital realms
 
 ---
 <p align="center">Thank you for visiting my profile! Let's embark on a journey of innovation and creativity together. 🌈</p>
+
 [![](https://visitcount.itsvg.in/api?id=VermiNew&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Big thanks to: GPRM -->
