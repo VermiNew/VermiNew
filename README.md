@@ -1,4 +1,6 @@
-# Welcome to My GitHub! 🌟
+<h1 align="center">Welcome to My GitHub! 🌟</h1>
+
+<img src="https://github.com/VermiNew/VermiNew/blob/main/Logo.png?raw=true" alt="Logo" style="width: 100vw;"></img>
 
 Hello there! I'm Michael, also known as **VermiNew** around these digital realms. Thanks for dropping by my corner of the internet! 🚀
 
@@ -23,7 +25,11 @@ Hello there! I'm Michael, also known as **VermiNew** around these digital realms
 - 🔍 Stay tuned for future projects and opportunities to collaborate on something exciting!
 
 #### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VermiNew) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@VermiNew8475) 
+- 📧 Reach out to me at werminew@ogarnij.se
+- 🎥 Check out my creative outputs on [VermiNew's YouTube Channel](https://www.youtube.com/@VermiNew8475)
+- 💬 Discord: **VermiNew#0012** or **VermiNew**
+- 🌐 Visit my website: [https://verminew.github.io](https://verminew.github.io)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VermiNew) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@VermiNew8475)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VermiNew&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -33,12 +39,19 @@ Hello there! I'm Michael, also known as **VermiNew** around these digital realms
 
 ---
 #### 😂 Random Dev Meme
+
+<div align="center">
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
 <p align="center">Thank you for visiting my profile! Let's embark on a journey of innovation and creativity together. 🌈</p>
 
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=VermiNew&icon=3&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Big thanks to: GPRM -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
