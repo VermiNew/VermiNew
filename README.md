@@ -32,8 +32,9 @@ Hello there! I'm Michael, also known as **VermiNew** around these digital realms
 - 📧 Reach out to me at werminew@ogarnij.se
 - 🎥 Check out my creative outputs on [VermiNew's YouTube Channel](https://www.youtube.com/@VermiNew8475)
 - 💬 Discord: **VermiNew#0012** or **VermiNew**
-- 🌐 Visit my website: [https://verminew.github.io](https://verminew.github.io)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VermiNew) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@VermiNew8475)
+- 🌐 Visit my website: [https://verminew.github.io](https://verminew.github.io)<br><br>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VermiNew8475)<br>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
