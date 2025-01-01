@@ -12,14 +12,56 @@ Hello there! I'm Michael, also known as **VermiNew** around these digital realms
 ---
 #### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VermiNew&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width=355px/>
-  <img src="https://github-readme-stats.vercel.app/api?username=VermiNew&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VermiNew&theme=dark&hide_border=true" alt="GitHub Streak"/><br/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VermiNew&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VermiNew&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VermiNew&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width=355px/>
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=VermiNew&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=VermiNew&theme=default&hide_border=true&include_all_commits=false&count_private=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=VermiNew&theme=default&hide_border=true&include_all_commits=false&count_private=false"/>
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=VermiNew&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=VermiNew&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VermiNew&theme=default&hide_border=true"/>
+  </picture>
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VermiNew&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophy"/>
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=VermiNew&theme=darkhub&no-frame=true&margin-w=4"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=VermiNew&theme=flat&no-frame=true&margin-w=4"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=VermiNew&theme=flat&no-frame=true&margin-w=4"/>
+  </picture>
 </p>
 
 ---
@@ -38,7 +80,17 @@ Hello there! I'm Michael, also known as **VermiNew** around these digital realms
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=VermiNew&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
+  <picture>
+    <source 
+      srcset="https://github-contributor-stats.vercel.app/api?username=VermiNew&limit=5&theme=dark&combine_all_yearly_contributions=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-contributor-stats.vercel.app/api?username=VermiNew&limit=5&theme=default&combine_all_yearly_contributions=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-contributor-stats.vercel.app/api?username=VermiNew&limit=5&theme=default&combine_all_yearly_contributions=true"/>
+  </picture>
 </p>
 
 #### 💻 Tech Stack:
@@ -48,7 +100,17 @@ Hello there! I'm Michael, also known as **VermiNew** around these digital realms
 #### 🖊️ Random Dev Quote
 
 <p align="center">
-  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight'/>
+  <picture>
+    <source 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  </picture>
 </p>
 
 ---
@@ -56,7 +118,7 @@ Hello there! I'm Michael, also known as **VermiNew** around these digital realms
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=VermiNew&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VermiNew&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
