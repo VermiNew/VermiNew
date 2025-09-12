@@ -33,10 +33,10 @@ Ver (Version) + Mi (Michael) + New (continuous learning) = My passion for growth
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI/ML Learning Journey
+<!-- ### AI/ML Learning Journey
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) -->
 
 ### Development Tools & Environment
 
@@ -47,7 +47,7 @@ Ver (Version) + Mi (Michael) + New (continuous learning) = My passion for growth
 
 ## 🌱 Currently Learning
 
-- React and Vue.js for modern web development
+- React <!-- and Vue.js --> for modern web development
 - TypeScript for type-safe applications
 - AI/ML with TensorFlow and PyTorch
 - Next.js for full-stack React applications
