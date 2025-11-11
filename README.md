@@ -7,7 +7,7 @@
 I'm Michael, a programming enthusiast from Poland. Currently studying at a technical school in the programming field, I've already passed the INF.03 qualification and am preparing for INF.04.
 
 - 🎓 Technical school student, specialization: programmer
-- 🌱 Focusing on web development and artificial intelligence
+- 🌱 Focusing on web development; using AI only as a learning support tool
 - 🔍 Constantly exploring new technologies and expanding my skills
 - 🎯 Greatest satisfaction: Seeing my code work and deliver real results
 
@@ -45,16 +45,9 @@ Ver (Version) + Mi (Michael) + New (continuous learning) = My passion for growth
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌱 Currently Learning
-
-- React and Vue.js for modern web development
-- TypeScript for type-safe applications
-- AI/ML with TensorFlow and PyTorch
-- Next.js for full-stack React applications
-
 ## 🤝 Let's Connect
 
-- 📧 Email: <werminew@ogarnij.se>
+- 📧 Email: <verminewfey@gmail.com>
 - 🎥 YouTube: [@VermiNew8475](https://youtube.com/@VermiNew8475)
 - 💬 Discord: **VermiNew**
 - 🌐 Portfolio: [verminew.github.io](https://verminew.github.io)
@@ -65,7 +58,6 @@ I openly acknowledge areas that need improvement:
 
 - Working under pressure
 - Operating in very large teams
-- Certain aspects of mathematics
 
 I treat these challenges as opportunities for growth and actively work on them.
 
@@ -83,14 +75,13 @@ I treat these challenges as opportunities for growth and actively work on them.
 ## 🎯 Future Goals
 
 - 🚀 Master React and TypeScript ecosystem
-- 🤖 Develop AI-powered applications
+- 🤖 Use AI only as a tool to support learning and projects
 - 📱 Explore mobile app development
-- 🎓 Complete technical school with excellence
+- 🎓 Graduate from technical school and pass the Matura exam
+- 🎓 Attend university and graduate successfully
 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VermiNew&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VermiNew&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VermiNew&theme=dark&hide_border=true)
