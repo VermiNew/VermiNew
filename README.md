@@ -15,6 +15,10 @@ I'm Michael, a programming enthusiast from Poland. I have graduated from a progr
 
 Ver (Version) + Mi (Michael) + New (continuous learning) = My passion for growth and constant improvement.
 
+## 🎯 What I'm looking for
+
+I am looking for junior developer or internship opportunities where I can grow through real projects, code reviews, and teamwork. I am especially interested in web development, frontend, and full-stack fundamentals.
+
 ## 💻 Tech Stack
 
 ### Frontend
