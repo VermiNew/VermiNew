@@ -47,7 +47,7 @@ Ver (Version) + Mi (Michael) + New (continuous learning) = My passion for growth
 
 ## 🤝 Let's Connect
 
-- 📧 Email: <verminewfey@gmail.com>
+- 📧 Email: <werminew@protonmail.com>
 - 🎥 YouTube: [@VermiNew8475](https://youtube.com/@VermiNew8475)
 - 💬 Discord: **VermiNew**
 - 🌐 Portfolio: [verminew.github.io](https://verminew.github.io)
