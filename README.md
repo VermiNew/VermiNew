@@ -37,7 +37,7 @@ I am looking for junior developer or internship opportunities where I can grow t
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI/ML Learning Journey
+### Machine Learning Exploration
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -47,6 +47,12 @@ I am looking for junior developer or internship opportunities where I can grow t
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🤖 LLMs and agent-oriented development
+
+I use Large Language Models and coding agents as part of my development workflow. LLMs help me reason through problems, understand concepts, and compare approaches. Coding agents help me implement, refactor, and modify code based on clearly defined requirements in tools like VS Code or CLI.
+
+I stay responsible for the final result by reviewing generated changes, testing them, and making sure I understand the code before treating it as my own work.
 
 ## 🤝 Let's Connect
 
@@ -78,7 +84,7 @@ I treat these challenges as opportunities for growth and actively work on them.
 ## 🎯 Future Goals
 
 - 🚀 Master React and TypeScript ecosystem
-- 🤖 Use AI only as a tool to support learning and projects
+- 🤖 Use LLMs and coding agents responsibly to support learning and projects
 - 📱 Explore mobile app development
 - 🎓 Prepare for university studies
 - 🎓 Continue developing through academic and personal projects
