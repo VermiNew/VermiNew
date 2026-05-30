@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🌟
 
-![Logo](https://github.com/VermiNew/VermiNew/blob/main/Logo.png?raw=true)
+![Profile banner](./Logo.png)
 
 ## 👋 About Me
 
