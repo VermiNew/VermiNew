@@ -4,10 +4,10 @@
 
 ## 👋 About Me
 
-I'm Michael, a programming enthusiast from Poland. Currently studying at a technical school in the programming field, I've already passed the INF.03 qualification and am preparing for INF.04.
+I'm Michael, a programming enthusiast from Poland. I have graduated from a programming-focused technical school, completed the INF.03 and INF.04 qualifications, and am currently preparing for university while waiting for my Matura exam results.
 
-- 🎓 Technical school student, specialization: programmer
-- 🌱 Focusing on web development; using AI only as a learning support tool
+- 🎓 Graduate of a programming-focused technical school
+- 🌱 Preparing for university and continuing to grow as a developer
 - 🔍 Constantly exploring new technologies and expanding my skills
 - 🎯 Greatest satisfaction: Seeing my code work and deliver real results
 
@@ -64,7 +64,7 @@ I treat these challenges as opportunities for growth and actively work on them.
 ## 🏆 Achievements
 
 - ✅ Completed INF.03 qualification
-- 🎯 Preparing for INF.04 qualification
+- ✅ Completed INF.04 qualification
 - 🌐 Created personal portfolio website
 
 ## 🌍 Languages
@@ -77,8 +77,8 @@ I treat these challenges as opportunities for growth and actively work on them.
 - 🚀 Master React and TypeScript ecosystem
 - 🤖 Use AI only as a tool to support learning and projects
 - 📱 Explore mobile app development
-- 🎓 Graduate from technical school and pass the Matura exam
-- 🎓 Attend university and graduate successfully
+- 🎓 Prepare for university studies
+- 🎓 Continue developing through academic and personal projects
 
 ---
 
